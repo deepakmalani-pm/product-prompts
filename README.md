@@ -1,6 +1,3 @@
-# product-prompts
-Prompts related to core job of product manager
-
 # Product Management Prompt Library
 
 Welcome! I'm product enthusiast and building in public a library of prompts that I use regularly. My goal is to help other product managers, leaders, and aspiring PMs leverage AI more effectively.
