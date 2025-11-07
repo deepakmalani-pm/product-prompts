@@ -17,6 +17,7 @@
     * What is the primary "job" this product is hired to do for the user?
     * What is its stated value proposition? What is the *real* value proposition you observe?
     * Who is the clear target audience?
+    * Define the ideal user persona
 
 2.  **First-Time User Experience (FTUE) & Onboarding:**
     * Describe the user's "first 5 minutes."
@@ -41,4 +42,12 @@
 6.  **Weaknesses & Opportunities (Actionable Insights):**
     * What 3-5 things does this product do poorly?
     * What user needs are clearly being unmet?
-    * Based on this analysis, what are 3 actionable opportunities or hypotheses we should consider for our own roadmap?
+          
+7. **Business numbers:**
+    * what are daily and monthly active users? Split this data between overall, website, apps
+    * What is daily and monthly orders and gross merchandise value (GMV)? Split this data between overall, own website, own apps, market places, quick commerce,          offline - general trade, offline - modern trade
+    * What are the monthly retention numbers?
+    * What is the gross margin of the business? Split this based on categories that business operate in
+    * What is the customer acquisition costs and average order values of the business?
+  
+* Based on this analysis, what are key actionable opportunities or hypotheses we should consider for our own roadmap? What metrics and goals should be taken?
